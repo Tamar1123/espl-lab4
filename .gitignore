@@ -1,0 +1,8 @@
+*.o
+task1
+task4
+hexeditplus
+Auxiliary_files
+
+.DS_Store
+*~
